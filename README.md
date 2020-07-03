@@ -1,0 +1,1 @@
+-  the Webpack project initializes the template
